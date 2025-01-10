@@ -12,13 +12,16 @@ In addition to its daily management tools, ReMind includes interactive games tai
 ReMind is tailored for individuals with Alzheimer's disease, providing them with essential support to maintain their independence and well-being. It is also a valuable tool for caregivers and healthcare professionals, offering insights into the patient's daily routine and cognitive progress.
 
 ## Team Members:
+- Pooja
 - Arshati
 - Farheen
 - Gauri 
-- Pooja
 - Prasitha
 
 ## Contributions:
+### **Pooja**
+In this project, I played a pivotal role in developing the backend infrastructure that supports core functionalities crucial for user interaction and data management. I implemented a robust authentication system using Firebase, which provides secure login and sign-up capabilities, ensuring user data protection and access control. I designed and developed backend services for managing caretaker and patient details, including emergency data, which involves capturing user inputs, validating them, and storing them efficiently in the database. Additionally, I created a comprehensive medicine management system, which encompasses adding new medicines through a detailed form and backend functionality for editing, displaying, and deleting medicine records. This ensures that users can manage their medicine inventory effectively. It also focuses on enhancing user experience by enabling backend support for editing patient profiles, updating emergency information, and modifying caretaker details. A significant feature I integrated is the SOS button, which encompasses several emergency functions: locating the nearest police station, route to the nearest safe place, individuals, and sending immediate alerts to nearby responders. This feature is designed to enhance user safety and provide quick access to emergency services.
+
 ### **Arshati**
 Contributed significantly to the frontend development of several key features in the application:
 1. Calendar Feature: Developed the calendar interface with event management functionality. Implemented a popup to display events for selected dates, ensuring users can view and interact with event details effectively. Linked calendar events with daily tasks on the home page for a consolidated view of activities.
@@ -63,8 +66,6 @@ Below are my Backend and Frontend Contributions to the application:
    - Developed backend functionalities for managing calendar events, including creating, updating, deleting, and displaying events.
    - Integrated Firebase to store and fetch user-created events, ensuring seamless data synchronization and display within the app.
 
-### **Pooja**
-In this project, I played a pivotal role in developing the backend infrastructure that supports core functionalities crucial for user interaction and data management. I implemented a robust authentication system using Firebase, which provides secure login and sign-up capabilities, ensuring user data protection and access control. I designed and developed backend services for managing caretaker and patient details, including emergency data, which involves capturing user inputs, validating them, and storing them efficiently in the database. Additionally, I created a comprehensive medicine management system, which encompasses adding new medicines through a detailed form and backend functionality for editing, displaying, and deleting medicine records. This ensures that users can manage their medicine inventory effectively. It also focuses on enhancing user experience by enabling backend support for editing patient profiles, updating emergency information, and modifying caretaker details. A significant feature I integrated is the SOS button, which encompasses several emergency functions: locating the nearest police station, route to the nearest safe place, individuals, and sending immediate alerts to nearby responders. This feature is designed to enhance user safety and provide quick access to emergency services.
 
 ### **Prasitha**
 Developed the initial app prototype design using Figma.
